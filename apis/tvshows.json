@@ -1,0 +1,305 @@
+{
+  "tvshows": [
+    {
+      "Title": "Under the Dome",
+      "Category": "Adventure",
+      "id": 1,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg"
+      ,"Year":2009
+    },
+    {
+      "Title": "Person of Interest",
+      "Category": "Adventure",
+      "id": 2,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/163/407679.jpg" ,"Year":2011
+    },
+    {
+      "Title": "Bitten",
+      "Category": "Adventure",
+      "id": 3,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/15.jpg" ,"Year":2004
+    },
+    {
+      "Title": "Arrow",
+      "Category": "Adventure",
+      "id": 4,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/143/358967.jpg" ,"Year":2014
+    },
+    {
+      "Title": "True Detective",
+      "Category": "Adventure",
+      "id": 5,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/445/1114021.jpg" ,"Year":2006
+    },
+    {
+      "Title": "The 100",
+      "Category": "Adventure",
+      "id": 6,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/272/681441.jpg" ,"Year":2009
+    },
+    {
+      "Title": "Homeland",
+      "Category": "Adventure",
+      "id": 7,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/230/575652.jpg" ,"Year":2008
+    },
+    {
+      "Title": "Glee",
+      "Category": "Adventure",
+      "id": 8,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/73.jpg" ,"Year":1999
+    },
+    {
+      "Title": "Revenge",
+      "Category": "Adventure",
+      "id": 9,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/82/206879.jpg" ,"Year":2020
+    },
+    {
+      "Title": "Grimm",
+      "Category": "Adventure",
+      "id": 10,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/69/174906.jpg" ,"Year":2021
+    },
+    {
+      "Title": "Gotham",
+      "Category": "Cop ",
+      "id": 11,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/189/474715.jpg" ,"Year":2005
+    },
+    {
+      "Title": "Lost Girl",
+      "Category": "Cop",
+      "id": 12,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/137.jpg" ,"Year":2019
+    },
+    {
+      "Title": "The Flash",
+      "Category": "Cop",
+      "id": 13,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/448/1121792.jpg" ,"Year":2019
+    },
+    {
+      "Title": "Continuum",
+      "Category": "Cop",
+      "id": 14,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/184.jpg" ,"Year":2017
+    },
+    {
+      "Title": "Constantine",
+      "Category": "Cop",
+      "id": 15,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/154.jpg" ,"Year":2009
+    },
+    {
+      "Title": "Penny Dreadful",
+      "Category": "Cop",
+      "id": 16,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/48/122260.jpg" ,"Year":2006
+    },
+    {
+      "Title": "The Strain",
+      "Category": "Cop",
+      "id": 17,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111710.jpg" ,"Year":2002
+    },
+    {
+      "Title": "The Amazing Race",
+      "Category": "Cop",
+      "id": 18,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/423/1058582.jpg" ,"Year":2009
+    },
+    {
+      "Title": "Supernatural",
+      "Category": "Cop",
+      "id": 19,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/445/1114097.jpg" ,"Year":2015
+    },
+    {
+      "Title": "The Last Ship",
+      "Category": "Cop",
+      "id": 20,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/164/412464.jpg" ,"Year":2022
+    },
+    {
+      "Title": "True Blood",
+      "Category": "Cartoons",
+      "id": 21,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/410/1026956.jpg" ,"Year":2019
+    },
+    {
+      "Title": "Once Upon a Time in Wonderland",
+      "Category": "Cartoons",
+      "id": 22,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/73/183661.jpg" ,"Year":2004
+    },
+    {
+      "Title": "Hawaii Five-0",
+      "Category": "Cartoons",
+      "id": 23,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/213/532575.jpg" ,"Year":2009
+    },
+    {
+      "Title": "Hellsing",
+      "Category": "Cartoons",
+      "id": 24,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/178/446544.jpg" ,"Year":2016
+    },
+    {
+      "Title": "Hellsing Ultimate",
+      "Category": "Cartoons",
+      "id": 25,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/178/446780.jpg" ,"Year":2017
+    },
+    {
+      "Title": "Berserk",
+      "Category": "Cartoons",
+      "id": 26,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/396/991619.jpg" ,"Year":2005
+    },
+    {
+      "Title": "Californication",
+      "Category": "Cartoons",
+      "id": 27,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/38/95017.jpg" ,"Year":2020
+    },
+    {
+      "Title": "Vikings",
+      "Category": "Cartoons",
+      "id": 28,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/286/715906.jpg" ,"Year":2014
+    },
+    {
+      "Title": "American Horror Story",
+      "Category": "Cartoons",
+      "id": 29,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/427/1067521.jpg" ,"Year":2011
+    },
+    {
+      "Title": "Marvel's Agents of S.H.I.E.L.D.",
+      "Category": "Cartoons",
+      "id": 30,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/142/356776.jpg" ,"Year":2012
+    },
+    {
+      "Title": "Fargo",
+      "Category": "Comedies",
+      "id": 31,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/267/669639.jpg" ,"Year":2010
+    },
+    {
+      "Title": "Hemlock Grove",
+      "Category": "Comedies",
+      "id": 32,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/305.jpg" ,"Year":2019
+    },
+    {
+      "Title": "Helix",
+      "Category": "Comedies",
+      "id": 33,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/126/316697.jpg" ,"Year":2003
+    },
+    {
+      "Title": "The Killing",
+      "Category": "Comedies",
+      "id": 34,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/216/540157.jpg" ,"Year":2000
+    },
+    {
+      "Title": "Intruders",
+      "Category": "Comedies",
+      "id": 35,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/126/316698.jpg" ,"Year":2016
+    },
+    {
+      "Title": "Z Nation",
+      "Category": "Comedies",
+      "id": 36,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/170/426759.jpg" ,"Year":2009
+    },
+    {
+      "Title": "Resurrection",
+      "Category": "Comedies",
+      "id": 37,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/350.jpg" ,"Year":2019
+    },
+    {
+      "Title": "Death Note",
+      "Category": "Comedies",
+      "id": 38,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/403/1009233.jpg" ,"Year":2005
+    },
+    {
+      "Title": "Last Man Standing",
+      "Category": "Comedies",
+      "id": 39,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/419/1049994.jpg" ,"Year":2010
+    },
+    {
+      "Title": "Sleepy Hollow",
+      "Category": "Comedies",
+      "id": 40,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/81/204166.jpg" ,"Year":1996
+    },
+    {
+      "Title": "Outlander",
+      "Category": "Horror",
+      "id": 41,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/464/1161242.jpg" ,"Year":2019
+    },
+    {
+      "Title": "Scorpion",
+      "Category": "Horror",
+      "id": 42,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/128/322484.jpg" ,"Year":2018
+    },
+    {
+      "Title": "NCIS: New Orleans",
+      "Category": "Horror",
+      "id": 43,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/280/701985.jpg" ,"Year":2002
+    },
+    {
+      "Title": "Forever",
+      "Category": "Horror",
+      "id": 44,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/383.jpg" ,"Year":2012
+    },
+    {
+      "Title": "Witches of East End",
+      "Category": "Horror",
+      "id": 45,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/392.jpg" ,"Year":2010
+    },
+    {
+      "Title": "Madam Secretary",
+      "Category": "Horror",
+      "id": 46,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/214/536175.jpg" ,"Year":2013
+    },
+    {
+      "Title": "Brooklyn Nine-Nine",
+      "Category": "Horror",
+      "id": 47,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/402/1007484.jpg" ,"Year":2017
+    },
+    {
+      "Title": "The Lottery",
+      "Category": "Horror",
+      "id": 48,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/146/366444.jpg" ,"Year":2006
+    },
+    {
+      "Title": "The Knick",
+      "Category": "Horror",
+      "id": 49,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/417.jpg" ,"Year":2020
+    },
+    {
+      "Title": "How to Get Away with Murder",
+      "Category": "Horror",
+      "id": 50,
+      "Poster": "https://static.tvmaze.com/uploads/images/original_untouched/212/531512.jpg" ,"Year":2001
+    }
+  ]
+}
